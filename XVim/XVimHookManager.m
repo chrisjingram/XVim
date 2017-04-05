@@ -18,7 +18,6 @@
 #import "NSObject+XVimAdditions.h"
 #import "DVTSourceTextView+XVim.h"
 #import "IDEApplicationController+XVim.h"
-#import "IDEPlaygroundEditor+XVim.h"
 
 @implementation IDEWorkspaceWindow (XVim)
 

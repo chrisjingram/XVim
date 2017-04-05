@@ -13,7 +13,6 @@
 		6E2B33341836E60600EFE4E2 /* DVTTextStorage+XVimTextStoring.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E2B33331836E60600EFE4E2 /* DVTTextStorage+XVimTextStoring.m */; };
 		A204814F19702F3E0064BE66 /* NSObject+XVimAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = A204814E19702F3E0064BE66 /* NSObject+XVimAdditions.m */; };
 		A212A53D1940A330002FB2CF /* XVim.xcplugin in Copy Files */ = {isa = PBXBuildFile; fileRef = A2E7E45217EF0219008F045A /* XVim.xcplugin */; };
-		A2193E961BE56730002629FB /* IDEPlaygroundEditor+XVim.m in Sources */ = {isa = PBXBuildFile; fileRef = A2193E951BE56730002629FB /* IDEPlaygroundEditor+XVim.m */; };
 		A2193E9A1BE73300002629FB /* IDELanguageSupportUI in Frameworks */ = {isa = PBXBuildFile; fileRef = A2193E991BE73300002629FB /* IDELanguageSupportUI */; };
 		A25032B319F805110021C34E /* IDEWorkspaceTabController+XVim.m in Sources */ = {isa = PBXBuildFile; fileRef = A25032B219F805110021C34E /* IDEWorkspaceTabController+XVim.m */; };
 		A259E2231B3C263B006000D9 /* NSURL+XVimXcodeModule.m in Sources */ = {isa = PBXBuildFile; fileRef = A259E2221B3C263B006000D9 /* NSURL+XVimXcodeModule.m */; };
@@ -856,7 +855,6 @@
 				A28F423917EEDBC200A3F7AE /* XVimRegisterEvaluator.m in Sources */,
 				A28F423A17EEDBC200A3F7AE /* XVimOperatorEvaluator.m in Sources */,
 				A28F423B17EEDBC200A3F7AE /* XVimKeyStroke.m in Sources */,
-				A2193E961BE56730002629FB /* IDEPlaygroundEditor+XVim.m in Sources */,
 				A28F423C17EEDBC200A3F7AE /* DVTSourceTextView+XVim.m in Sources */,
 				A28F423D17EEDBC200A3F7AE /* IDESourceCodeEditor+XVim.m in Sources */,
 				A28F423E17EEDBC200A3F7AE /* XVimNumericEvaluator.m in Sources */,
